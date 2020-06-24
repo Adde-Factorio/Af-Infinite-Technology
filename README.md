@@ -1,2 +1,2 @@
 # Af-Infinite-Technology
-A mod for the sandbox survival game Factorio!
+> Adds infinite technologies for various paths of the tech tree. Worker robot cargo capacity.
