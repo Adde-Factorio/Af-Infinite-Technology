@@ -6,6 +6,6 @@
 	"author":"Darcy Manoel",
 	"contact":"darcman99@gmail.com",
 	"homepage":"https://github.com/Darcman99/Factorio-Mods",
-	"description":"Adds infinite technologies for various paths of the tech tree.\n    ¬ Worker robot cargo capacity.",
+	"description":"Adds infinite technologies for various paths of the tech tree.\n    ¬ Worker robot cargo capacity.\n    ¬ Worker robot battery size.",
 	"dependencies":["base>=0.18.10"]
 }
