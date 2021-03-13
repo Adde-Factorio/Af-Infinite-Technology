@@ -34,7 +34,7 @@ data:extend({
 	{
 		type = "technology",
 		name = "worker-robot-battery-1",
-		icon = "__Infinite_Technology__/worker-robot-battery.png",
+		icon = "__AF-Infinite-Technology__/worker-robot-battery.png",
 		icon_size = 128,
 		effects =
 		{
@@ -63,7 +63,7 @@ data:extend({
 	{
 		type = "technology",
 		name = "worker-robot-battery-4",
-		icon = "__Infinite_Technology__/worker-robot-battery.png",
+		icon = "__AF-Infinite-Technology__/worker-robot-battery.png",
 		icon_size = 128,
 		effects =
 		{
@@ -93,7 +93,7 @@ data:extend({
 	{
 		type = "technology",
 		name = "worker-robot-battery-8",
-		icon = "__Infinite_Technology__/worker-robot-battery.png",
+		icon = "__AF-Infinite-Technology__/worker-robot-battery.png",
 		icon_size = 128,
 		effects =
 		{
@@ -124,7 +124,7 @@ data:extend({
 	{
 		type = "technology",
 		name = "worker-robot-battery-12",
-		icon = "__Infinite_Technology__/worker-robot-battery.png",
+		icon = "__AF-Infinite-Technology__/worker-robot-battery.png",
 		icon_size = 128,
 		effects =
 		{
